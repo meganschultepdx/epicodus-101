@@ -16,7 +16,7 @@ body {
 }
 
 #goal-list {
-  border-style: solid;
+  border-style: dashed;
   border-color: #5179ba;
   width: 30%;
 }
